@@ -1,0 +1,57 @@
+#title{
+    text-align: center;
+    background-color: rgb(8, 248, 196);
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 1;
+}
+#main{
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+}
+
+body{
+    background-color: aqua;
+}
+#img-div{
+    border-image: round;
+  padding-top: 10px;
+  height: auto;
+}
+#image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  height: auto;
+  max-width: 55%;
+  border: 5px salmon rgb(27, 204, 51)}
+#img-caption{
+    text-anchor: middle;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+#tribute-info{
+
+}
+#tribute-link{
+
+}
+tribute-link:hover{
+    color: red;
+}
+.chalisa{
+    background-color: greenyellow;
+    text-align: center;
+}
+img{ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    height: auto;
+    max-width: 55%;
+    border: 5px salmon rgb(27, 204, 51);
+    width:  500px;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 15px;
+}
