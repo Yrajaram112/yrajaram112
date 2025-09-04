@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rajaram Yadav  
 
 💻 **Software Engineer | Cloud & Networking Enthusiast | CS Graduate Student**  
-📍 Kansas City, MO │ 🎓 University of Missouri–Kansas City (M.S. Computer Science, Dec 2025)  
+📍 Kansas City, MO │ 🎓 University of Missouri–Kansas City (M.S. Computer Science)  
 
 ---
 
@@ -50,15 +50,15 @@
 ## 🌐 Portfolio & Contact  
 📧 Email: yrajaram112@gmail.com  
 🌍 Portfolio: [rajaramyadav.com.np](https://rajaramyadav.com.np)  
-💼 LinkedIn: [linkedin.com/in/rajaram-yadav](#)  
-🐙 GitHub: [github.com/rajaramyadav](https://github.com/rajaramyadav)  
+💼 LinkedIn: [linkedin.com/in/yrajaram112](linkedin.com/in/yrajaram112)  
+🐙 GitHub: [github.com/rajaramyadav](#)  
 
 ---
 
 ## 💻 Tech Stack  
 
 **Languages:**  
-`Java` `Python` `JavaScript` `TypeScript` `SQL` `C`  
+`Java` `Python` `JavaScript` `TypeScript` `SQL` `C` `C++`  
 
 **Frameworks & Libraries:**  
 `Spring Boot` `React` `Next.js` `Node.js` `Django` `Selenium` `Scrapy`  
@@ -82,14 +82,15 @@
 
 ## 📊 GitHub Stats  
 
-![Rajaram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaramyadav&show_icons=true&theme=tokyonight)  
+![Rajaram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yrajaram112&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaramyadav&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yrajaram112&layout=compact&theme=tokyonight)  
 
 ---
 
 ## ✍️ Random Dev Quote  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन" – Bhagavad Gita  
+> *You have control over your code (karma), not over the bugs (fruits).*
 
 ---
 
