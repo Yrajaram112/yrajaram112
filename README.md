@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Rajaram Yadav  
 
-💻 **Software Engineer | Cloud & Networking Enthusiast | CS Graduate Student**  
-📍 Kansas City, MO │ 🎓 University of Missouri–Kansas City (M.S. Computer Science)  
+💻 **Senior Software Engineer | Java & Spring Boot | Full-Stack Development**  
+🎓 University of Missouri–Kansas City (M.S. Computer Science)  
 
 ---
 
 ## 🚀 About Me  
-- 🌟 Results-driven engineer with 5+ years of experience in **full-stack development, networking, and cloud systems**.  
+- 🌟 Results-driven engineer with 6+ years of experience in **full-stack development, networking, and cloud systems**.  
 - 🛠️ Skilled in building **scalable applications** using **Java, Spring Boot, Next.js, React, and Python**.  
-- ☁️ Experienced in **AWS, OCI, CI/CD, and containerized deployments**.  
+- ☁️ Experienced in **AWS, Azure, CI/CD, and containerized deployments**.  
 - 🔐 Strong foundation in **networking concepts, firewalls, routing, and DevOps collaboration**.  
 - 📊 Passionate about **data-driven projects**, **cloud automation**, and **secure system design**.  
 
@@ -31,31 +31,24 @@
 ---
 
 ## 💼 Work Experience  
-- **Software Engineer @ YCO Solutions** (2021–2023)  
+- **Senior Software Engineer @ Waddell & Reed**  
   - Built scalable REST APIs, reduced DB load by 98%, and deployed real-time trading platforms.  
-  - Led a 3-member team to deliver a stock analysis app with Next.js + live data feeds.  
-  - Automated testing and CI/CD, cutting manual QA time by 70%.  
 
-- **Software Engineer @ Eshare Solutions** (2019–2021)  
+- **Software Engineer II @ Humana**
   - Designed microservices for financial data pipelines and automated data scraping.  
-  - Improved query performance by 15% with indexing and caching.  
-  - Implemented Jenkins CI/CD and Dockerized all deployments.  
 
-- **Research Intern @ UMKC** (2024)  
-  - Developed backend modules for a **network intrusion system** in Python.  
-  - Configured **OPAL-RT Linux simulations** to generate datasets for validation.  
+- **Software Engineer @ IBERIABANK**
 
 ---
 
 ## 🌐 Portfolio & Contact  
 📧 Email: yrajaram112@gmail.com
 🌍 Portfolio: [rajaramyadav.com.np](https://www.rajaramyadav.com.np)  
-💼 LinkedIn: [linkedin.com/in/yrajaram112](https://www.linkedin.com/in/yrajaram112)  
+💼 LinkedIn: [linkedin.com/in/yrajaram112](https://www.linkedin.com/in/yadavrajaram)  
 🐙 GitHub: [github.com/rajaramyadav](#)  
 
 ---
 
-## 💻 Tech Stack  
 ## 💻 Tech Stack  
 
 **Languages:**  
@@ -93,6 +86,7 @@
 ## ✍️ Random Dev Quote  
 > "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन" – Bhagavad Gita  
 > *You have control over your code (karma), not over the bugs (fruits).*
+> *Code with Devotion. Release without Attachment. *
 
 ---
 
