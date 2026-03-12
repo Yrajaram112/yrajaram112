@@ -44,7 +44,7 @@
 ## 🌐 Portfolio & Contact  
 📧 Email: yrajaram112@gmail.com
 🌍 Portfolio: [rajaramyadav.com.np](https://www.rajaramyadav.com.np)  
-💼 LinkedIn: [linkedin.com/in/yrajaram112](https://www.linkedin.com/in/yadavrajaram)  
+💼 LinkedIn: [linkedin.com/in/yadavrajaram](https://www.linkedin.com/in/yadavrajaram)  
 🐙 GitHub: [github.com/rajaramyadav](#)  
 
 ---
