@@ -1,8 +1,16 @@
+<img 
+  src="https://www.rajaramyadav.com.np/assets/rajaram-yadav-software-engineer.png" 
+  alt="Rajaram Yadav Software Engineer" 
+  width="180" 
+  align="right" 
+/>
+
 # 👋 Hi, I’m Rajaram Yadav  
 
 💻 **Senior Software Engineer | Java & Spring Boot | Full-Stack Development**  
 🎓 University of Missouri–Kansas City (M.S. Computer Science)  
-![Rajaram Yadav](https://www.rajaramyadav.com.np/assets/rajaram-yadav-software-engineer.png)
+
+<br clear="right"/>
 ---
 
 ## 🚀 About Me  
