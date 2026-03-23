@@ -2,7 +2,7 @@
 
 💻 **Senior Software Engineer | Java & Spring Boot | Full-Stack Development**  
 🎓 University of Missouri–Kansas City (M.S. Computer Science)  
-
+![Rajaram Yadav](https://www.rajaramyadav.com.np/assets/rajaram-yadav-software-engineer.png)
 ---
 
 ## 🚀 About Me  
