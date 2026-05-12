@@ -38,14 +38,7 @@
 
 ---
 
-## 💼 Work Experience  
-- **Senior Software Engineer @ Waddell & Reed**  
-  - Built scalable REST APIs, reduced DB load by 98%, and deployed real-time trading platforms.  
-
-- **Software Engineer II @ Humana**
-  - Designed microservices for financial data pipelines and automated data scraping.  
-
-- **Software Engineer @ IBERIABANK**
+## 
 
 ---
 
@@ -53,7 +46,7 @@
 📧 Email: yrajaram112@gmail.com
 🌍 Portfolio: [rajaramyadav.com.np](https://www.rajaramyadav.com.np)  
 💼 LinkedIn: [linkedin.com/in/yadavrajaram](https://www.linkedin.com/in/yadavrajaram)  
-🐙 GitHub: [github.com/rajaramyadav](#)  
+🐙 GitHub: [github.com/Yrajaram112](https://www.github.com/Yrajaram112)  
 
 ---
 
