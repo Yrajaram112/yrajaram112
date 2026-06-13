@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Software+Engineer.+Data+Engineer.+AI+Builder.;Full+Stack.+Cloud+Native.+Production+Ready.;Building+things+that+actually+ship.)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Full+Stack.+Cloud+Native.+Production+Ready.;Data+Engineer.+AI+Builder.+Software+Engineer.;Building+things+that+actually+ship.)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
@@ -252,7 +252,7 @@ Mobile-first web applications with real-time features, cloud storage, and seamle
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yrajaram112&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yrajaram112&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
