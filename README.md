@@ -252,7 +252,7 @@ Mobile-first web applications with real-time features, cloud storage, and seamle
 
 <br/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yrajaram112&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+<!--<img src="https://github-profile-trophy.vercel.app/?username=yrajaram112&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>-->
 
 </div>
 
